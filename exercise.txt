@@ -1,0 +1,20 @@
+Part 1
+1. HTTP is the HyperText Transfer Protocal
+
+2. A URL is the address that is used to find the web page that is connected to the IP address that is connected to that URL
+
+3. The Domain Name System is the system that stores the names that are accoceated with the IP address.
+
+4. A query string is the information that is inputed into a GET request to request data from a server and send it back to the web page
+
+5. The two HTTP verbs are GET and POST. Get is used to request data from a sever and POST changes the data on the sever
+
+6. An HTTP request is the resource that you want back from a server
+
+7. An HTTP response is the return of the resource that was requested
+
+8. An HTTP header is the contents of the request or response that is either sent to the server or recieved from the server.
+    HTTP Request Headers - path, autority, cookie
+    HTTP Response Headers - age, cache-content, server
+
+9.  When you go to that URL, the URL is matched with its connected IP address through the either computer cache, router, ISP, or finally the DNS. It is than connected to the site through the related port, 80 by defualt. Than an HTTP request is sent to look for the resources that are included in the URL. Once the resources are found and the request is responded to, the page is loaded with the resources.
